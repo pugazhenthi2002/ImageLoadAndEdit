@@ -1,0 +1,20 @@
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\bin\Debug\net8.0-windows\Image Load and Edit.exe
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\bin\Debug\net8.0-windows\Image Load and Edit.deps.json
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\bin\Debug\net8.0-windows\Image Load and Edit.runtimeconfig.json
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\bin\Debug\net8.0-windows\Image Load and Edit.dll
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\bin\Debug\net8.0-windows\Image Load and Edit.pdb
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit_MarkupCompile.cache
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit_MarkupCompile.lref
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.g.resources
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.AssemblyInfoInputs.cache
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.AssemblyInfo.cs
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.csproj.CoreCompileInputs.cache
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.dll
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\refint\Image Load and Edit.dll
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.pdb
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\Image Load and Edit.genruntimeconfig.cache
+C:\Users\pugaz\source\repos\Image Load and Edit\Image Load and Edit\obj\Debug\net8.0-windows\ref\Image Load and Edit.dll
